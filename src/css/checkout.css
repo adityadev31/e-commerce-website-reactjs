@@ -1,0 +1,39 @@
+.checkout {
+   display: flex;
+   justify-content: space-between;
+   width: 100vw;
+   padding: 20px;
+   background-color: white;
+   height: max-content;
+}
+
+.checkout .checkout_left,
+.checkout .checkout_right {
+   margin: 10px;
+}
+
+.checkout .checkout_left {
+   flex: 2;
+   margin-right: 25px;
+   overflow-x: hidden;
+}
+
+.checkout .checkout_right {
+   flex: 1;
+   height: fit-content;
+   /* position: relative; */
+}
+
+.checkout_ad {
+   height: 150px;
+   width: 100%;
+   margin-left: 50%;
+   transform: translateX(-50%);
+   margin-bottom: 5px;
+}
+
+.checkout_title {
+   margin-right: 10px;
+   padding: 10px;
+   border-bottom: 1px solid lightgray;
+}
