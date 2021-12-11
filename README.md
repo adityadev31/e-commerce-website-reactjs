@@ -16,9 +16,3 @@
 </li>
 <li>Now use the app in http://localhost:3000/</li>
 </ul>
-
-## Note - Backend not deployed
-
-## Reference video
-
-<a>https://www.youtube.com/watch?v=RDV3Z1KCBvo</a>
